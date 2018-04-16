@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2500"
+   height="1400"
+   viewBox="0 0 661.45831 370.41667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="schedule.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient15252"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop15250" />
+    </linearGradient>
+    <filter
+       inkscape:label="Fill Background"
+       inkscape:menu="Fill and Transparency"
+       inkscape:menu-tooltip="Adds a colorizable opaque background"
+       style="color-interpolation-filters:sRGB"
+       id="filter4049">
+      <feFlood
+         result="result1"
+         flood-color="rgb(200,55,55)"
+         flood-opacity="1"
+         id="feFlood4037" />
+      <feImage
+         xlink:href=""
+         result="result2"
+         id="feImage4039" />
+      <feBlend
+         result="result4"
+         in2="result1"
+         mode="multiply"
+         id="feBlend4041" />
+      <feMerge
+         result="result3"
+         id="feMerge4047">
+        <feMergeNode
+           in="result1"
+           id="feMergeNode4043" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode4045" />
+      </feMerge>
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4051"
+       inkscape:label="滤镜1" />
+    <symbol
+       id="text288"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.08575191;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 41.344914,41.746129 c 0,-0.7874 -0.6096,-0.7874 -1.016,-0.7874 h -2.3114 v -13.208 c 0,-0.4064 0,-1.0414 -0.762,-1.0414 -0.4826,0 -0.635,0.3048 -0.762,0.6096 -0.9652,2.159 -2.286,2.4384 -2.7686,2.4892 -0.4064,0.0254 -0.9398,0.0762 -0.9398,0.7874 0,0.635 0.4572,0.762 0.8382,0.762 0.4826,0 1.524,-0.1524 2.6416,-1.1176 v 10.7188 h -2.3114 c -0.4064,0 -1.016,0 -1.016,0.7874 0,0.762 0.635,0.762 1.016,0.762 h 6.3754 c 0.381,0 1.016,0 1.016,-0.762 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.08575191"
+         id="path388"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="text288-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.08575192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 42.602215,79.877786 c 0,-1.905 -1.651,-3.4036 -3.5306,-3.937 2.032,-0.6858 3.175,-1.9304 3.175,-3.3782 0,-2.0828 -2.159,-4.064 -5.1816,-4.064 -3.048,0 -5.1816,2.0066 -5.1816,4.064 0,1.4478 1.1684,2.7178 3.175,3.3782 -1.905,0.5334 -3.5306,2.032 -3.5306,3.937 0,2.4638 2.3622,4.699 5.5372,4.699 3.2004,0 5.5372,-2.2352 5.5372,-4.699 z m -2.1082,-7.2898 c 0,1.4478 -1.5748,2.5654 -3.429,2.5654 -1.8542,0 -3.429,-1.143 -3.429,-2.5654 0,-1.3208 1.4224,-2.54 3.429,-2.54 1.9812,0 3.429,1.2192 3.429,2.54 z m 0.3556,7.2644 c 0,1.7526 -1.6764,3.175 -3.7846,3.175 -2.1082,0 -3.7846,-1.4224 -3.7846,-3.175 0,-1.5494 1.4732,-3.1496 3.7846,-3.1496 2.3368,0 3.7846,1.6002 3.7846,3.1496 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.08575192"
+         id="path385"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="text288-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.08575192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 42.983215,121.32422 c 0,-0.7874 -0.6096,-0.7874 -1.016,-0.7874 h -1.9812 v -8.9408 c 0,-0.8382 -0.1778,-1.0414 -1.0414,-1.0414 h -0.7112 c -0.6096,0 -0.7366,0.0254 -1.0668,0.5334 l -5.7912,9.0932 c -0.2286,0.3302 -0.2286,0.381 -0.2286,0.889 0,0.8382 0.2286,1.016 1.016,1.016 h 6.4008 v 2.7432 h -1.5748 c -0.4064,0 -1.016,0 -1.016,0.7874 0,0.762 0.635,0.762 1.016,0.762 h 4.572 c 0.381,0 1.016,0 1.016,-0.762 0,-0.7874 -0.6096,-0.7874 -1.016,-0.7874 h -1.5748 v -2.7432 h 1.9812 c 0.381,0 1.016,0 1.016,-0.762 z m -4.4196,-0.7874 h -5.6388 l 5.6388,-8.8646 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.08575192"
+         id="path382"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="text288-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.08575192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 42.399015,163.18978 c 0,-2.5654 -1.9558,-5.0546 -4.953,-5.0546 -0.889,0 -2.0066,0.1778 -3.048,0.7366 v -4.826 h 6.096 c 0.381,0 1.016,0 1.016,-0.762 0,-0.7874 -0.6096,-0.7874 -1.016,-0.7874 h -6.8326 c -0.8382,0 -1.016,0.2286 -1.016,1.0414 v 6.7564 c 0,0.4572 0,1.0414 0.8128,1.0414 0.4572,0 0.5588,-0.127 0.762,-0.381 0.6858,-0.8128 1.7272,-1.27 3.2004,-1.27 2.0828,0 3.2258,1.8542 3.2258,3.5052 0,2.032 -1.8034,3.556 -3.937,3.556 -0.7112,0 -2.3368,-0.2032 -3.048,-1.6002 0.127,-0.127 0.3302,-0.3048 0.3302,-0.8128 0,-0.7366 -0.5842,-1.143 -1.1176,-1.143 -0.381,0 -1.143,0.2286 -1.143,1.2192 0,2.1082 2.1336,3.8862 4.9784,3.8862 3.175,0 5.6896,-2.286 5.6896,-5.1054 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.08575192"
+         id="path379"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="text288-65"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.08575192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 42.399015,209.18274 v -0.6604 c 0,-0.4826 0,-1.0414 -0.8636,-1.0414 -0.889,0 -0.889,0.4826 -0.889,1.1938 h -6.0452 c 1.4986,-1.2954 3.937,-3.2004 5.0292,-4.2164 1.6002,-1.4224 2.7686,-3.048 2.7686,-5.08 0,-3.048 -2.5654,-4.953 -5.6642,-4.953 -2.9972,0 -5.0038,2.0828 -5.0038,4.2418 0,0.9398 0.7112,1.2192 1.143,1.2192 0.5334,0 1.1176,-0.4318 1.1176,-1.143 0,-0.3048 -0.127,-0.635 -0.3556,-0.8128 0.381,-1.1684 1.5748,-1.9558 2.9718,-1.9558 2.0828,0 4.0386,1.1684 4.0386,3.4036 0,1.778 -1.2446,3.2512 -2.921,4.6482 l -5.6134,4.7244 c -0.2286,0.2032 -0.381,0.3302 -0.381,0.6858 0,0.7874 0.635,0.7874 1.0414,0.7874 h 8.6106 c 0.8382,0 1.016,-0.2286 1.016,-1.0414 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.08575192"
+         id="path376"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="text288-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.08575192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 42.602215,237.34494 c 0,-0.7874 -0.6096,-0.7874 -1.016,-0.7874 h -8.382 c -0.1524,-0.4064 -0.6096,-0.4064 -0.8128,-0.4064 -0.8636,0 -0.8636,0.5588 -0.8636,1.0414 v 1.0668 c 0,0.4826 0,1.0414 0.8636,1.0414 0.889,0 0.889,-0.4826 0.889,-1.1938 h 6.7056 c -4.3942,4.67359 -5.2578,10.26159 -5.2578,13.05559 0,0.3556 0,1.1938 0.889,1.1938 0.4318,0 0.8636,-0.2794 0.8636,-1.016 0.127,-7.2136 4.0132,-11.63319 5.5626,-13.13179 0.508,-0.4572 0.5588,-0.508 0.5588,-0.8636 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.08575192"
+         id="path373"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="text288-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.08575192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 42.602215,289.52284 c 0,-1.8034 -1.1938,-3.302 -2.8702,-4.064 1.4224,-0.9144 2.1336,-2.3622 2.1336,-3.7338 0,-1.8796 -1.8542,-3.5814 -4.7752,-3.5814 -3.048,0 -4.826,1.2192 -4.826,2.9718 0,0.8382 0.635,1.1938 1.143,1.1938 0.5334,0 1.1176,-0.4318 1.1176,-1.143 0,-0.3556 -0.1524,-0.6096 -0.2286,-0.6858 0.7874,-0.7874 2.5908,-0.7874 2.8194,-0.7874 1.7272,0 2.9972,0.9144 2.9972,2.0574 0,0.762 -0.381,1.651 -1.0668,2.2098 -0.8128,0.6604 -1.4478,0.7112 -2.3622,0.762 -1.4478,0.1016 -1.8288,0.1016 -1.8288,0.8382 0,0.7874 0.6096,0.7874 1.016,0.7874 h 1.1684 c 2.5146,0 3.81,1.7018 3.81,3.175 0,1.5494 -1.4224,3.1496 -3.7338,3.1496 -1.016,0 -2.9718,-0.2794 -3.6322,-1.4732 0.127,-0.127 0.3048,-0.2794 0.3048,-0.7874 0,-0.6096 -0.4826,-1.1176 -1.1176,-1.1176 -0.5842,0 -1.143,0.381 -1.143,1.1938 0,2.2606 2.4638,3.7338 5.588,3.7338 3.3274,0 5.4864,-2.3368 5.4864,-4.699 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.08575192"
+         id="path370"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="text288-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.08575192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 42.373615,330.96923 c 0,-2.8956 -2.2352,-5.1562 -5.0292,-5.1562 -1.3208,0 -2.6416,0.4318 -3.7846,1.4732 0.3556,-3.5814 2.7432,-5.6642 4.9784,-5.6642 0.8636,0 1.27,0.2794 1.397,0.4064 -0.127,0.127 -0.254,0.2794 -0.254,0.7366 0,0.6096 0.4572,1.1176 1.1176,1.1176 0.635,0 1.143,-0.4318 1.143,-1.1938 0,-1.2446 -0.9144,-2.6162 -3.3782,-2.6162 -3.4036,0 -6.8072,3.0734 -6.8072,8.2042 0,6.0198 2.8448,7.874 5.3594,7.874 2.7686,0 5.2578,-2.1336 5.2578,-5.1816 z m -1.7526,0 c 0,2.1844 -1.6764,3.6322 -3.5052,3.6322 -1.651,0 -2.6416,-1.2446 -3.1496,-2.794 -0.254,-0.6096 -0.2032,-1.2192 -0.2032,-1.5748 0,-1.5748 1.524,-2.8448 3.4544,-2.8448 2.0574,0 3.4036,1.7018 3.4036,3.5814 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.08575192"
+         id="path367"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="score_0">
+      <path
+         d="m 208.70877,-506.74761 q 0,1.15711 -0.83256,1.98967 -0.83255,0.83256 -1.98966,0.83256 h -1.41111 q -1.15712,0 -1.98967,-0.83256 -0.83256,-0.83256 -0.83256,-1.98967 v -4.23333 q 0,-1.15711 0.83256,-1.98967 0.83255,-0.83255 1.98967,-0.83255 h 1.41111 q 1.15711,0 1.98966,0.83255 0.83256,0.83256 0.83256,1.98967 z m -1.62278,-4.99533 q -0.42333,-0.64911 -1.19944,-0.64911 h -1.41111 q -0.57856,0 -1.00189,0.42333 -0.40923,0.40922 -0.40923,0.98778 v 3.25967 z m 0.21167,4.99533 v -3.23144 l -3.99345,3.99344 q 0.42334,0.64911 1.17123,0.64911 h 1.41111 q 0.57855,0 0.98777,-0.40922 0.42334,-0.42333 0.42334,-1.00189 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.02645833"
+         id="path10880"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="score_1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="M 239.99956,-500.14008 H 232.944 v -1.41111 h 2.82222 v -5.64444 h -2.11666 v -1.41111 h 0.70555 q 0.57856,0 0.98778,-0.40922 0.42333,-0.42334 0.42333,-1.00189 h 1.41111 v 8.46666 h 2.82223 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.02645833"
+         id="path10874"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="score_2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 266.19197,-497.46738 h -7.05556 v -0.97366 l 5.54567,-5.55978 q 0.0988,-0.21167 0.0988,-0.52211 0,-0.57856 -0.42334,-0.98778 -0.40922,-0.42333 -0.98777,-0.42333 h -1.41111 q -0.57856,0 -1.00189,0.42333 -0.40923,0.40922 -0.40923,0.98778 h -1.41111 q 0,-1.15711 0.83256,-1.98967 0.83255,-0.83255 1.98967,-0.83255 h 1.41111 q 1.15711,0 1.98966,0.83255 0.83256,0.81845 0.83256,1.98967 0,0.70555 -0.31045,1.29822 l -4.36033,4.34622 h 4.67078 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.02645833"
+         id="path10877"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="score_3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 280.85999,-501.35869 q 0,0.57855 0.40923,1.00189 0.42333,0.40922 1.00189,0.40922 h 1.41111 q 0.57855,0 0.98777,-0.40922 0.42334,-0.42334 0.42334,-1.00189 0,-0.57856 -0.42334,-0.98778 -0.40922,-0.42333 -0.98777,-0.42333 h -1.41111 v -1.41111 h 1.41111 q 0.57855,0 0.98777,-0.40922 0.42334,-0.42334 0.42334,-1.00189 0,-0.57856 -0.42334,-0.98778 -0.40922,-0.42333 -0.98777,-0.42333 h -1.41111 q -0.57856,0 -1.00189,0.42333 -0.40923,0.40922 -0.40923,0.98778 h -1.41111 q 0,-1.17123 0.81845,-1.98967 0.83255,-0.83256 2.00378,-0.83256 h 1.41111 q 1.17122,0 1.98966,0.83256 0.83256,0.81844 0.83256,1.98967 0,1.27 -1.19945,2.11666 1.19945,0.84667 1.19945,2.11667 0,1.17122 -0.83256,2.00378 -0.81844,0.81844 -1.98966,0.81844 h -1.41111 q -1.17123,0 -2.00378,-0.81844 -0.81845,-0.83256 -0.81845,-2.00378 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.02645833"
+         id="path10868"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="score_4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 306.81694,-496.39828 h -4.23333 v -1.41112 h 1.41111 v -1.41111 h -4.23334 v -2.38477 l 4.67078,-4.67078 h 0.97367 v 5.64444 h 1.41111 v 1.41111 h -1.41111 v 1.41111 h 1.41111 z m -2.82222,-4.23334 v -3.25966 l -2.82223,2.82222 v 0.43744 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.02645833"
+         id="path10871"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="score_q"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 330.38832,-509.32088 q 0,0.70556 -0.31045,1.29823 l -2.94922,2.93511 h -0.97366 v -0.97367 l 2.72344,-2.73755 q 0.0988,-0.21167 0.0988,-0.52212 0,-0.57855 -0.42334,-0.98777 -0.40922,-0.42334 -0.98777,-0.42334 h -1.41111 q -0.57856,0 -1.00189,0.42334 -0.40923,0.40922 -0.40923,0.98777 h -1.41111 q 0,-1.15711 0.83256,-1.98966 0.83255,-0.83256 1.98967,-0.83256 h 1.41111 q 1.15711,0 1.98966,0.83256 0.83256,0.81844 0.83256,1.98966 z m -2.82222,6.35 q 0,0.29634 -0.21167,0.508 -0.19756,0.19756 -0.49389,0.19756 -0.29633,0 -0.508,-0.19756 -0.19755,-0.21166 -0.19755,-0.508 0,-0.29633 0.19755,-0.49388 0.21167,-0.21167 0.508,-0.21167 0.29633,0 0.49389,0.21167 0.21167,0.19755 0.21167,0.49388 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.02645833"
+         id="path10865"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="rect">
+      <path
+         style="fill:none;stroke-width:0.28633681;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 85.326424,-526.55695 h 42.046996 v 84.38033 H 85.326424 Z"
+         id="rect11482"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="flowRoot14199"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'ProFont for Powerline';-inkscape-font-specification:'ProFont for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none">
+      <g
+         aria-label="000"
+         transform="matrix(0.26458333,0,0,0.26458333,0,645.58333)"
+         id="flowRoot14199_transform">
+        <path
+           d="m 751.14648,164.90234 q 0,6.56 -4.72,11.28 -4.72,4.72 -11.28,4.72 h -8 q -6.56,0 -11.28,-4.72 -4.72,-4.72 -4.72,-11.28 v -24 q 0,-6.56 4.72,-11.28 4.72,-4.72 11.28,-4.72 h 8 q 6.56,0 11.28,4.72 4.72,4.72 4.72,11.28 z m -9.2,-28.32 q -2.4,-3.68 -6.8,-3.68 h -8 q -3.28,0 -5.68,2.4 -2.32,2.32 -2.32,5.6 v 18.48 z m 1.2,28.32 v -18.32 l -22.64,22.64 q 2.4,3.68 6.64,3.68 h 8 q 3.28,0 5.6,-2.32 2.4,-2.4 2.4,-5.68 z"
+           id="path14207"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 799.14648,164.90234 q 0,6.56 -4.72,11.28 -4.72,4.72 -11.28,4.72 h -8 q -6.56,0 -11.28,-4.72 -4.72,-4.72 -4.72,-11.28 v -24 q 0,-6.56 4.72,-11.28 4.72,-4.72 11.28,-4.72 h 8 q 6.56,0 11.28,4.72 4.72,4.72 4.72,11.28 z m -9.2,-28.32 q -2.4,-3.68 -6.8,-3.68 h -8 q -3.28,0 -5.68,2.4 -2.32,2.32 -2.32,5.6 v 18.48 z m 1.2,28.32 v -18.32 l -22.64,22.64 q 2.4,3.68 6.64,3.68 h 8 q 3.28,0 5.6,-2.32 2.4,-2.4 2.4,-5.68 z"
+           id="path14209"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 847.14648,164.90234 q 0,6.56 -4.72,11.28 -4.72,4.72 -11.28,4.72 h -8 q -6.56,0 -11.28,-4.72 -4.72,-4.72 -4.72,-11.28 v -24 q 0,-6.56 4.72,-11.28 4.72,-4.72 11.28,-4.72 h 8 q 6.56,0 11.28,4.72 4.72,4.72 4.72,11.28 z m -9.2,-28.32 q -2.4,-3.68 -6.8,-3.68 h -8 q -3.28,0 -5.68,2.4 -2.32,2.32 -2.32,5.6 v 18.48 z m 1.2,28.32 v -18.32 l -22.64,22.64 q 2.4,3.68 6.64,3.68 h 8 q 3.28,0 5.6,-2.32 2.4,-2.4 2.4,-5.68 z"
+           id="path14211"
+           inkscape:connector-curvature="0" />
+      </g>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="1377.8423"
+     inkscape:cy="664.89281"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false"
+     borderlayer="false"
+     inkscape:snap-others="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12908" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="background"
+     transform="translate(0,-158.75)">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/bracket_background.jpg"
+       xlink:href="assets/logos/bracket_background.jpg"
+       y="158.75"
+       x="0"
+       id="image5193"
+       preserveAspectRatio="none"
+       height="370.41666"
+       width="662.14337" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/nba-playoffs.png"
+       xlink:href="assets/logos/nba-playoffs.png"
+       y="424.40814"
+       x="248.95554"
+       id="image5064"
+       preserveAspectRatio="none"
+       height="46.566666"
+       width="152.39999" />
+  </g>
+  <g
+     inkscape:label="W_18"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.997104,-110.81342)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="170.3206"
+       x="70.598503"
+       id="0001"
+       preserveAspectRatio="none"
+       height="33.866669"
+       width="33.866669" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="125.87778"
+       x="70.598503"
+       id="0000"
+       preserveAspectRatio="none"
+       height="33.866669"
+       width="33.866669" />
+    <rect
+       style="fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444"
+       width="42.05632"
+       height="84.389648"
+       x="66.503677"
+       y="122.8376" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.png"
+       xlink:href="assets/logos/score_0.png"
+       width="15.875"
+       height="15.875"
+       preserveAspectRatio="none"
+       id="0000_score"
+       x="111.9324"
+       y="134.87399" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="179.31644"
+       x="111.9324"
+       id="0001_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="W_45"
+     inkscape:groupmode="layer"
+     id="layer1-4"
+     transform="translate(-47.171432,151.15139)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0011"
+       x="88.772812"
+       y="-2.7592244"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0010"
+       x="88.772812"
+       y="-47.201763"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-50"
+       width="42.056324"
+       height="84.389648"
+       x="84.678009"
+       y="-50.241695" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-38.205929"
+       x="130.1067"
+       id="0010_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="6.2366099"
+       x="130.1067"
+       id="0011_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="W_36"
+     inkscape:groupmode="layer"
+     id="layer1-2"
+     transform="translate(-47.171432,279.11633)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0111"
+       x="88.772812"
+       y="47.045555"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0110"
+       x="88.772812"
+       y="2.6031556"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-1"
+       width="42.056324"
+       height="84.389648"
+       x="84.678009"
+       y="-0.43689021" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="11.59899"
+       x="130.1067"
+       id="0110_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="56.041389"
+       x="130.1067"
+       id="0111_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="W_27"
+     inkscape:groupmode="layer"
+     id="layer1-3"
+     transform="translate(-47.171432,213.64079)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0101"
+       x="88.772812"
+       y="23.636211"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0100"
+       x="88.772812"
+       y="-20.806204"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-4"
+       width="42.056324"
+       height="84.389648"
+       x="84.678009"
+       y="-23.846188" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-11.81037"
+       x="130.1067"
+       id="0100_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="32.632046"
+       x="130.1067"
+       id="0101_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="W_12345678"
+     inkscape:groupmode="layer"
+     id="layer1-2-8"
+     transform="translate(70.596108,153.18761)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="01"
+       x="137.61804"
+       y="39.646976"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="00"
+       x="137.61804"
+       y="-4.7954445"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-08"
+       width="42.056324"
+       height="84.389648"
+       x="133.52321"
+       y="-7.8354526" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="4.2003899"
+       x="183.39052"
+       id="00_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="48.642811"
+       x="183.39052"
+       id="01_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="W_2367"
+     inkscape:groupmode="layer"
+     id="layer1-2-2"
+     transform="translate(8.4394244,215.27387)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="011"
+       x="116.83839"
+       y="66.445618"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="010"
+       x="116.83839"
+       y="22.00313"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-7"
+       width="42.056324"
+       height="84.389648"
+       x="112.74355"
+       y="18.963144" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="30.998964"
+       x="157.54222"
+       id="010_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="75.441452"
+       x="157.54222"
+       id="011_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="W_1458"
+     inkscape:groupmode="layer"
+     id="layer1-2-83"
+     transform="translate(4.8380945,128.40968)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="001"
+       x="120.43972"
+       y="-24.460054"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="000"
+       x="120.43972"
+       y="-68.902496"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-5"
+       width="42.056324"
+       height="84.389648"
+       x="116.3449"
+       y="-71.942566" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-59.906666"
+       x="161.14354"
+       id="000_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-15.46422"
+       x="161.14354"
+       id="001_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="WE_12345678"
+     inkscape:groupmode="layer"
+     id="layer1-2-8-8"
+     transform="translate(103.21268,188.24078)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1"
+       x="227.61241"
+       y="-17.627132"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0"
+       x="182.40659"
+       y="-17.627132"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-0"
+       width="42.056324"
+       height="84.389648"
+       x="-20.334415"
+       y="179.74802"
+       transform="rotate(-90)" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       width="15.875"
+       height="15.875"
+       preserveAspectRatio="none"
+       id="0_score"
+       x="191.40242"
+       y="27.7575"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       width="15.875"
+       height="15.875"
+       preserveAspectRatio="none"
+       id="1_score"
+       x="236.60825"
+       y="27.7575"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="road"
+     transform="translate(0,-645.58333)">
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.562894,699.80233 24.395586,2.9e-4 v 44.44227 H 121.183 103.95848 v 44.44258 l -24.395583,3.8e-4"
+       id="path12912"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.562897,877.57276 24.395583,-4.8e-4 v 44.44235 H 121.183 103.95848 v 44.44259 l -24.395583,3.7e-4"
+       id="path12912-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 163.23932,744.2449 h 22.63727 v 88.88504 h 18.24271 -18.24271 v 89.46139 h -22.63727"
+       id="path12961"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 246.17561,833.12994 36.78508,-2e-5"
+       id="path12963"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 571.29055,699.80294 -23.86615,-0.10562 v 44.44228 l -17.68556,0.0904 17.68556,-0.0904 v 44.44257 l 23.86615,3.9e-4"
+       id="path12912-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 571.29055,877.25244 -23.86616,-3.8e-4 v 44.44235 l -17.68552,0.17108 17.68552,-0.17108 v 44.76324 h 23.86616"
+       id="path12912-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 487.68272,744.22961 h -22.63727 v 88.88504 h -18.24271 18.24271 v 89.46139 h 22.63727"
+       id="path12961-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 367.48883,833.12993 36.78508,-2e-5"
+       id="path12963-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.32345635px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 325.1555,812.10175 -2e-5,-44.97021"
+       id="path12963-6-4"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="E_12345678"
+     inkscape:groupmode="layer"
+     id="layer1-2-8-4"
+     transform="translate(183.84761,181.38682)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="11"
+       x="225.0023"
+       y="11.106565"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="10"
+       x="225.0023"
+       y="-33.174393"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-5-8"
+       width="42.056324"
+       height="84.389648"
+       x="220.90761"
+       y="-36.29504" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-24.17856"
+       x="196.50908"
+       id="10_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="20.1024"
+       x="196.50909"
+       id="11_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="E_2367"
+     inkscape:groupmode="layer"
+     id="layer1-2-8-6"
+     transform="translate(236.66349,234.04144)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="111"
+       x="255.11386"
+       y="47.678047"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="110"
+       x="255.11386"
+       y="2.9361308"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-5-7"
+       width="42.056324"
+       height="84.389648"
+       x="251.01904"
+       y="0.045897894" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="11.931965"
+       x="231.72397"
+       id="110_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="56.673882"
+       x="231.72397"
+       id="111_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="E_1458"
+     inkscape:groupmode="layer"
+     id="layer1-2-8-1"
+     transform="translate(234.64762,117.52397)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="101"
+       x="257.12979"
+       y="-13.605194"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="100"
+       x="257.12979"
+       y="-58.016788"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-5-5"
+       width="42.056324"
+       height="84.389648"
+       x="253.03488"
+       y="-61.072144" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-49.020954"
+       x="233.73984"
+       id="100_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-4.6093602"
+       x="233.73984"
+       id="101_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="E_36"
+     inkscape:groupmode="layer"
+     id="layer1-2-8-60"
+     transform="translate(291.09206,274.03631)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1111"
+       x="284.2933"
+       y="52.125546"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1110"
+       x="284.2933"
+       y="7.6831756"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-5-6"
+       width="42.056324"
+       height="84.389648"
+       x="280.19849"
+       y="4.643188" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="16.67901"
+       x="260.11975"
+       id="1110_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.12138"
+       x="260.11975"
+       id="1111_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="E_27"
+     inkscape:groupmode="layer"
+     id="layer1-2-8-08"
+     transform="translate(291.09206,208.56077)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1101"
+       x="284.2933"
+       y="28.416801"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1100"
+       x="284.2933"
+       y="-16.067385"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-5-1"
+       width="42.056324"
+       height="84.389648"
+       x="280.19849"
+       y="-19.086483" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-7.0715499"
+       x="260.11975"
+       id="1100_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="37.412636"
+       x="260.11975"
+       id="1101_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="E_45"
+     inkscape:groupmode="layer"
+     id="layer1-2-8-89"
+     transform="translate(291.09206,143.08522)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1011"
+       x="284.2933"
+       y="5.1272058"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1010"
+       x="284.2933"
+       y="-39.166443"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-5-3"
+       width="42.056324"
+       height="84.389648"
+       x="280.19849"
+       y="-42.280819" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-30.17061"
+       x="260.11975"
+       id="1010_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="14.12304"
+       x="260.11975"
+       id="1011_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:label="E_18"
+     inkscape:groupmode="layer"
+     id="layer1-2-8-7"
+     transform="translate(291.09206,77.609684)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1001"
+       x="284.2933"
+       y="-18.102503"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1000"
+       x="284.2933"
+       y="-62.544678"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
+       id="rect12444-5-4"
+       width="42.056324"
+       height="84.389648"
+       x="280.19849"
+       y="-65.5849" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-53.549164"
+       x="260.11975"
+       id="1000_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-9.1066685"
+       x="260.11975"
+       id="1001_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="W_rank"
+     transform="translate(0,-645.58333)">
+    <use
+       xlink:href="#text288"
+       id="use9713"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-19.017762,642.97268)" />
+    <use
+       xlink:href="#text288-3"
+       id="use9732"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-19.017762,645.48616)" />
+    <use
+       xlink:href="#text288-6"
+       id="use9741"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-19.017762,647.99957)" />
+    <use
+       xlink:href="#text288-5"
+       id="use9752"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-19.017762,650.51305)" />
+    <use
+       xlink:href="#text288-65"
+       id="use9765"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-19.017762,653.02651)" />
+    <use
+       xlink:href="#text288-1"
+       id="use9780"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-19.017762,655.53993)" />
+    <use
+       xlink:href="#text288-2"
+       id="use9797"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-19.017762,658.05341)" />
+    <use
+       xlink:href="#text288-9"
+       id="use9816"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-19.017762,660.56682)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2-5"
+     inkscape:label="E_rank"
+     transform="translate(805.74477,-652.87521)">
+    <use
+       xlink:href="#text288"
+       id="use9713-3"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-210.57665,650.2645)" />
+    <use
+       xlink:href="#text288-3"
+       id="use9732-7"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-210.57665,652.77804)" />
+    <use
+       xlink:href="#text288-6"
+       id="use9741-3"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-210.57665,655.2606)" />
+    <use
+       xlink:href="#text288-5"
+       id="use9752-5"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-210.57665,657.62519)" />
+    <use
+       xlink:href="#text288-65"
+       id="use9765-5"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-210.57665,659.97719)" />
+    <use
+       xlink:href="#text288-1"
+       id="use9780-1"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-210.57665,662.53238)" />
+    <use
+       xlink:href="#text288-2"
+       id="use9797-8"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-210.57665,665.34529)" />
+    <use
+       xlink:href="#text288-9"
+       id="use9816-1"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(-210.57665,667.85867)" />
+  </g>
+  <g
+     inkscape:label="champion"
+     inkscape:groupmode="layer"
+     id="layer1-2-8-8-1"
+     transform="translate(97.568243,153.97094)"
+     style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="101.18712"
+       height="101.18712"
+       preserveAspectRatio="none"
+       id="root"
+       x="176.99373"
+       y="-115.89898"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/basketball.png"
+       xlink:href="assets/logos/basketball.png"
+       y="-45.91835"
+       x="189.01233"
+       id="basketball"
+       preserveAspectRatio="none"
+       height="21.127914"
+       width="21.127914" />
+    <image
+       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/crown.png"
+       xlink:href="assets/logos/crown.png"
+       y="-15.882629"
+       x="388.00296"
+       id="crown"
+       preserveAspectRatio="none"
+       height="36.586868"
+       width="36.586868"
+       transform="rotate(30,534.76109,-338.4253)" />
+  </g>
+</svg>
