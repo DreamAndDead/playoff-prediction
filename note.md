@@ -65,6 +65,10 @@ $.param()
 
 
 
+jquery set mouse cursor
+https://stackoverflow.com/questions/7185044/change-the-mouse-cursor-on-mouse-over-to-anchor-like-style
+
+
 
 
 
@@ -112,6 +116,3 @@ root代表总冠军
 
 - 在手机上，如果放大网页，则弹窗不对
   - 在放大的前提下，居中显示，并自适应宽度
-  
-- 从链接中恢复页面
-  - 自己编辑再分享

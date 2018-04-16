@@ -326,10 +326,19 @@ function init() {
             return;
         }
 
+        team_ele.hover(function(event) {
+            var ele = $(event.target).svg();
+            var id = $(event.target).attr('id');
+            var name = map[id]['name'];
+            if (name == '') {
+                ele.css('cursor', 'auto');
+            } else {
+                ele.css('cursor', 'pointer');
+            }
+        });
+
         team_ele.click(function(event) {
             var winner = $(event.target).attr('id');
-
-
             var loser = get_loser(winner);
             var parent = get_parent_pos(winner);
 
@@ -376,6 +385,15 @@ function init() {
 
                 $('[id^=point_]').each(function(index, element) {
                     var point_ele = $(element).svg();
+
+                    point_ele.hover(function(event) {
+                        var point = $(event.target).attr('id').slice(-1);
+                        var circle = $('#circle_' + point).svg();
+                        var number = $('#path_' + point).svg();
+                        circle.css('cursor', 'pointer');
+                        number.css('cursor', 'pointer');
+                    });
+
                     point_ele.click(function(event) {
                         var point = $(event.target).attr('id').slice(-1);
                         // animate
