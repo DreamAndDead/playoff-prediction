@@ -16,7 +16,7 @@
    viewBox="0 0 370.41665 661.45834"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="schedule-mobile.svg">
   <defs
      id="defs2">
@@ -226,15 +226,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254834"
-     inkscape:cx="891.70639"
-     inkscape:cy="1102.4151"
+     inkscape:cx="313.86757"
+     inkscape:cy="1279.1918"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-2-8-8-1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1050"
-     inkscape:window-x="1366"
+     inkscape:window-height="1021"
+     inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="false"
@@ -265,7 +265,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -386,44 +386,44 @@
      transform="translate(97.568243,445.0126)"
      style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/bracket_background.jpg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/bracket_background.jpg"
        xlink:href="assets/logos/bracket_background.jpg"
-       width="662.14337"
-       height="370.41666"
-       preserveAspectRatio="none"
-       id="image5193"
-       x="-445.0126"
+       transform="rotate(90)"
        y="-272.84842"
-       transform="rotate(90)" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/nba-playoffs.png"
-       xlink:href="assets/logos/nba-playoffs.png"
-       width="106.47823"
-       height="32.535015"
+       x="-445.0126"
+       id="image5193"
        preserveAspectRatio="none"
-       id="image5064"
+       height="370.41666"
+       width="662.14337" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/nba-playoffs-2018.png"
+       xlink:href="assets/logos/nba-playoffs-2018.png"
+       y="-136.12457"
        x="-82.561356"
-       y="-136.12457" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       width="33.866669"
-       height="33.866669"
+       id="image5064"
        preserveAspectRatio="none"
-       id="0001"
+       height="32.535015"
+       width="106.47823" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-403.41119"
        x="179.47456"
-       y="-403.41119"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       width="33.866669"
-       height="33.866669"
+       id="0001"
        preserveAspectRatio="none"
-       id="0000"
-       x="223.91739"
+       height="33.866669"
+       width="33.866669" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-403.41119"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       x="223.91739"
+       id="0000"
+       preserveAspectRatio="none"
+       height="33.866669"
+       width="33.866669" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -433,45 +433,45 @@
        x="-407.50604"
        y="-260.82425" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.png"
        xlink:href="assets/logos/score_0.png"
-       y="-362.0773"
-       x="232.91284"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       width="15.875"
+       height="15.875"
+       preserveAspectRatio="none"
        id="0000_score"
-       preserveAspectRatio="none"
-       height="15.875"
-       width="15.875"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       x="232.91284"
+       y="-362.0773" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="0001_score"
-       x="188.4704"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-362.0773"
+       x="188.4704"
+       id="0001_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0011"
+       x="90.589592"
+       y="-403.41119"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-403.41119"
-       x="90.589592"
-       id="0011"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-403.41119"
-       x="135.03214"
+       preserveAspectRatio="none"
        id="0010"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="135.03214"
+       y="-403.41119"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -481,45 +481,45 @@
        x="-407.50601"
        y="-171.93874" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="0010_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-362.0773"
        x="144.02797"
-       y="-362.0773"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="0010_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="0011_score"
-       x="99.585426"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-362.0773"
+       x="99.585426"
+       id="0011_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0111"
+       x="-87.180153"
+       y="-403.41119"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-403.41119"
-       x="-87.180153"
-       id="0111"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-403.41119"
-       x="-42.737755"
+       preserveAspectRatio="none"
        id="0110"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="-42.737755"
+       y="-403.41119"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -529,45 +529,45 @@
        x="-407.50601"
        y="5.8310399" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="0110_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-362.0773"
        x="-33.74192"
-       y="-362.0773"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="0110_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="0111_score"
-       x="-78.184319"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-362.0773"
+       x="-78.184319"
+       id="0111_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="0101"
+       x="1.7047386"
+       y="-403.41119"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-403.41119"
-       x="1.7047386"
-       id="0101"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-403.41119"
-       x="46.147156"
+       preserveAspectRatio="none"
        id="0100"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="46.147156"
+       y="-403.41119"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -577,45 +577,45 @@
        x="-407.50601"
        y="-83.05381" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="0100_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-362.0773"
        x="55.14299"
-       y="-362.0773"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="0100_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="0101_score"
-       x="10.700575"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-362.0773"
+       x="10.700575"
+       id="0101_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="01"
+       x="46.147156"
+       y="-236.79843"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-236.79843"
-       x="46.147156"
-       id="01"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-236.79843"
-       x="90.589584"
+       preserveAspectRatio="none"
        id="00"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="90.589584"
+       y="-236.79843"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
        id="rect12444-08"
@@ -625,45 +625,45 @@
        y="-127.49625"
        transform="rotate(90)" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="00_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-191.02596"
        x="99.585411"
-       y="-191.02596"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="00_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="01_score"
-       x="55.14299"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-191.02596"
+       x="55.14299"
+       id="01_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="011"
+       x="-42.737736"
+       y="-319.73477"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-319.73477"
-       x="-42.737736"
-       id="011"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-319.73477"
-       x="1.7047501"
+       preserveAspectRatio="none"
        id="010"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="1.7047501"
+       y="-319.73477"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -673,45 +673,45 @@
        x="-323.82962"
        y="-38.611404" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="010_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-279.03094"
        x="10.700586"
-       y="-279.03094"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="010_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="011_score"
-       x="-33.741901"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-279.03094"
+       x="-33.741901"
+       id="011_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="001"
+       x="135.03212"
+       y="-319.73477"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-319.73477"
-       x="135.03212"
-       id="001"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-319.73477"
-       x="179.47456"
+       preserveAspectRatio="none"
        id="000"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="179.47456"
+       y="-319.73477"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -721,45 +721,45 @@
        x="-323.82959"
        y="-216.3813" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="000_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="-279.03098"
        x="188.47041"
-       y="-279.03098"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="000_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="001_score"
-       x="144.02795"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-279.03098"
+       x="144.02795"
+       id="001_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1"
+       x="68.368088"
+       y="-114.1875"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-114.1875"
-       x="68.368088"
-       id="1"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-159.39333"
-       x="68.368088"
+       preserveAspectRatio="none"
        id="0"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="68.368088"
+       y="-159.39333"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
        id="rect12444-0"
@@ -768,25 +768,25 @@
        x="64.273224"
        y="-162.0519" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-150.39749"
-       x="40.975132"
+       width="15.875"
+       height="15.875"
+       preserveAspectRatio="none"
        id="0_score"
-       preserveAspectRatio="none"
-       height="15.875"
-       width="15.875" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-105.19167"
        x="40.975132"
-       id="1_score"
-       preserveAspectRatio="none"
+       y="-150.39749"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       width="15.875"
        height="15.875"
-       width="15.875" />
+       preserveAspectRatio="none"
+       id="1_score"
+       x="40.975132"
+       y="-105.19167"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 218.6294,-365.4497 -2.9e-4,24.39559 h -44.44227 v 17.22452 -17.22452 h -44.44258 l -3.8e-4,-24.39558"
@@ -839,25 +839,25 @@
        id="path12963-6-4"
        inkscape:connector-curvature="0" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-36.162682"
-       x="46.488358"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
        id="11"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="46.488358"
        y="-36.162682"
-       x="90.769318"
-       id="10"
-       preserveAspectRatio="none"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
+       preserveAspectRatio="none"
+       id="10"
+       x="90.769318"
+       y="-36.162682"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -867,45 +867,45 @@
        x="-40.257378"
        y="-127.75663" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="10_score"
-       x="99.765152"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-64.655907"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       x="99.765152"
+       id="10_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="11_score"
-       x="55.484192"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="-64.655891"
+       x="55.484192"
+       id="11_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="111"
+       x="-42.737755"
+       y="46.764763"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="46.764763"
-       x="-42.737755"
-       id="111"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="46.764763"
-       x="2.0041618"
+       preserveAspectRatio="none"
        id="110"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="2.0041618"
+       y="46.764763"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -915,45 +915,45 @@
        x="42.669945"
        y="-38.761066" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="110_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="23.374872"
        x="10.999998"
-       y="23.374872"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="110_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="111_score"
-       x="-33.741917"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="23.374872"
+       x="-33.741917"
+       id="111_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="101"
+       x="135.06296"
+       y="46.764824"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="46.764824"
-       x="135.06296"
-       id="101"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="46.764824"
-       x="179.47455"
+       preserveAspectRatio="none"
        id="100"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="179.47455"
+       y="46.764824"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -963,45 +963,45 @@
        x="42.669914"
        y="-216.39658" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="100_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="23.37487"
        x="188.47038"
-       y="23.37487"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="100_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="101_score"
-       x="144.05879"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="23.37487"
+       x="144.05879"
+       id="101_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1111"
+       x="-87.180115"
+       y="130.37277"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="130.37277"
-       x="-87.180115"
-       id="1111"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="130.37277"
-       x="-42.737743"
+       preserveAspectRatio="none"
        id="1110"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="-42.737743"
+       y="130.37277"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -1011,45 +1011,45 @@
        x="126.27795"
        y="5.8310881" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="1110_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="106.19922"
        x="-33.741913"
-       y="106.19922"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="1110_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="1111_score"
-       x="-78.18428"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="106.19922"
+       x="-78.18428"
+       id="1111_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1101"
+       x="2.0041618"
+       y="130.37277"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="130.37277"
-       x="2.0041618"
-       id="1101"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="130.37277"
-       x="46.48835"
+       preserveAspectRatio="none"
        id="1100"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="46.48835"
+       y="130.37277"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -1059,45 +1059,45 @@
        x="126.27796"
        y="-83.374115" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="1100_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="106.19923"
        x="55.484184"
-       y="106.19923"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="1100_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="1101_score"
-       x="10.999998"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="106.19923"
+       x="10.999998"
+       id="1101_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1011"
+       x="90.769318"
+       y="130.37277"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="130.37277"
-       x="90.769318"
-       id="1011"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="130.37277"
-       x="135.06297"
+       preserveAspectRatio="none"
        id="1010"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="135.06297"
+       y="130.37277"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -1107,45 +1107,45 @@
        x="126.27796"
        y="-172.04401" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="1010_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="106.19923"
        x="144.05881"
-       y="106.19923"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
+       id="1010_score"
+       preserveAspectRatio="none"
        height="15.875"
-       preserveAspectRatio="none"
-       id="1011_score"
-       x="99.765152"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="106.19923"
+       x="99.765152"
+       id="1011_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
+       xlink:href="assets/logos/ATL_logo.png"
+       width="33.866669"
+       height="33.866669"
+       preserveAspectRatio="none"
+       id="1001"
+       x="179.47455"
+       y="130.37277"
        style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="130.37277"
-       x="179.47455"
-       id="1001"
-       preserveAspectRatio="none"
+       width="33.866669"
        height="33.866669"
-       width="33.866669" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
-       xlink:href="assets/logos/ATL_logo.png"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="130.37277"
-       x="223.91672"
+       preserveAspectRatio="none"
        id="1000"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
+       x="223.91672"
+       y="130.37277"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        transform="rotate(90)"
        style="opacity:1;fill:none;stroke:#656565;stroke-width:0.27701265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57254902"
@@ -1155,25 +1155,25 @@
        x="126.27795"
        y="-260.82361" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
        xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
-       preserveAspectRatio="none"
-       id="1000_score"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="106.19922"
        x="232.91287"
-       y="106.19922"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/score_0.svg"
-       xlink:href="assets/logos/score_0.svg"
-       width="15.875"
-       height="15.875"
+       id="1000_score"
        preserveAspectRatio="none"
-       id="1001_score"
-       x="188.47038"
+       height="15.875"
+       width="15.875" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/score_0.svg"
+       xlink:href="assets/logos/score_0.svg"
+       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="106.19922"
-       style="opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       x="188.47038"
+       id="1001_score"
+       preserveAspectRatio="none"
+       height="15.875"
+       width="15.875" />
     <use
        xlink:href="#text288"
        id="use9713"
@@ -1303,33 +1303,33 @@
        height="100%"
        transform="translate(-107.31179,-140.89117)" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/ATL_logo.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/ATL_logo.png"
        xlink:href="assets/logos/ATL_logo.png"
-       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="-170.45062"
-       x="133.58932"
-       id="root"
-       preserveAspectRatio="none"
+       width="101.18712"
        height="101.18712"
-       width="101.18712" />
+       preserveAspectRatio="none"
+       id="root"
+       x="133.58932"
+       y="-170.45062"
+       style="stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/basketball.png"
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/basketball.png"
        xlink:href="assets/logos/basketball.png"
-       width="21.127914"
-       height="21.127914"
-       preserveAspectRatio="none"
-       id="basketball"
+       y="-98.107414"
        x="143.66791"
-       y="-98.107414" />
-    <image
-       sodipodi:absref="/home/zdw/projects/playoff-guide/assets/logos/crown.png"
-       xlink:href="assets/logos/crown.png"
-       transform="rotate(30)"
-       width="36.586868"
-       height="36.586868"
+       id="basketball"
        preserveAspectRatio="none"
-       id="crown"
+       height="21.127914"
+       width="21.127914" />
+    <image
+       sodipodi:absref="/home/zdw/project/playoff-prediction/assets/logos/crown.png"
+       xlink:href="assets/logos/crown.png"
+       y="-258.72668"
        x="83.49823"
-       y="-258.72668" />
+       id="crown"
+       preserveAspectRatio="none"
+       height="36.586868"
+       width="36.586868"
+       transform="rotate(30)" />
   </g>
 </svg>
