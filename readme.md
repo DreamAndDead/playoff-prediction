@@ -1,5 +1,5 @@
 # playoff prediction
 
-大胆预测季后赛2018 ;)
+大胆预测季后赛 ;)
 
 https://dreamanddead.github.io/playoff-prediction/

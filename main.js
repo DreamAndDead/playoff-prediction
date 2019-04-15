@@ -1,137 +1,272 @@
-/*
- * external link: dreamanddead.github.io/playoff-guide
- * or dreamanddead.github.io/playoff-guide?map=
- */
+// teams every year
+var teams = {
+    "2018": {
+        "0000": {
+            name: "HOU",
+            score: "0"
+        },
+        "0001": {
+            name: "MIN",
+            score: "0"
+        },
+        "0010": {
+            name: "OKC",
+            score: "0"
+        },
+        "0011": {
+            name: "UTA",
+            score: "0"
+        },
+        "0100": {
+            name: "POR",
+            score: "0"
+        },
+        "0101": {
+            name: "NOP",
+            score: "0"
+        },
+        "0110": {
+            name: "GSW",
+            score: "0"
+        },
+        "0111": {
+            name: "SAS",
+            score: "0"
+        },
+
+        "1000": {
+            name: "TOR",
+            score: "0"
+        },
+        "1001": {
+            name: "WAS",
+            score: "0"
+        },
+        "1010": {
+            name: "CLE",
+            score: "0"
+        },
+        "1011": {
+            name: "IND",
+            score: "0"
+        },
+        "1100": {
+            name: "PHI",
+            score: "0"
+        },
+        "1101": {
+            name: "MIA",
+            score: "0"
+        },
+        "1110": {
+            name: "BOS",
+            score: "0"
+        },
+        "1111": {
+            name: "MIL",
+            score: "0"
+        }
+    },
+
+    "2019": {
+        "0000": {
+            name: "HOU",
+            score: "0"
+        },
+        "0001": {
+            name: "MIN",
+            score: "0"
+        },
+        "0010": {
+            name: "OKC",
+            score: "0"
+        },
+        "0011": {
+            name: "UTA",
+            score: "0"
+        },
+        "0100": {
+            name: "POR",
+            score: "0"
+        },
+        "0101": {
+            name: "NOP",
+            score: "0"
+        },
+        "0110": {
+            name: "GSW",
+            score: "0"
+        },
+        "0111": {
+            name: "SAS",
+            score: "0"
+        },
+
+        "1000": {
+            name: "TOR",
+            score: "0"
+        },
+        "1001": {
+            name: "WAS",
+            score: "0"
+        },
+        "1010": {
+            name: "CLE",
+            score: "0"
+        },
+        "1011": {
+            name: "IND",
+            score: "0"
+        },
+        "1100": {
+            name: "PHI",
+            score: "0"
+        },
+        "1101": {
+            name: "MIA",
+            score: "0"
+        },
+        "1110": {
+            name: "BOS",
+            score: "0"
+        },
+        "1111": {
+            name: "MIL",
+            score: "0"
+        }
+    },
+
+};
 
 var map_init = {
     "0000": {
-        "name": "HOU",
-        "score": "0"
+        name: "HOU",
+        score: "0"
     },
     "0001": {
-        "name": "MIN",
-        "score": "0"
+        name: "MIN",
+        score: "0"
     },
     "0010": {
-        "name": "OKC",
-        "score": "0"
+        name: "OKC",
+        score: "0"
     },
     "0011": {
-        "name": "UTA",
-        "score": "0"
+        name: "UTA",
+        score: "0"
     },
     "0100": {
-        "name": "POR",
-        "score": "0"
+        name: "POR",
+        score: "0"
     },
     "0101": {
-        "name": "NOP",
-        "score": "0"
+        name: "NOP",
+        score: "0"
     },
     "0110": {
-        "name": "GSW",
-        "score": "0"
+        name: "GSW",
+        score: "0"
     },
     "0111": {
-        "name": "SAS",
-        "score": "0"
+        name: "SAS",
+        score: "0"
     },
 
     "1000": {
-        "name": "TOR",
-        "score": "0"
+        name: "TOR",
+        score: "0"
     },
     "1001": {
-        "name": "WAS",
-        "score": "0"
+        name: "WAS",
+        score: "0"
     },
     "1010": {
-        "name": "CLE",
-        "score": "0"
+        name: "CLE",
+        score: "0"
     },
     "1011": {
-        "name": "IND",
-        "score": "0"
+        name: "IND",
+        score: "0"
     },
     "1100": {
-        "name": "PHI",
-        "score": "0"
+        name: "PHI",
+        score: "0"
     },
     "1101": {
-        "name": "MIA",
-        "score": "0"
+        name: "MIA",
+        score: "0"
     },
     "1110": {
-        "name": "BOS",
-        "score": "0"
+        name: "BOS",
+        score: "0"
     },
     "1111": {
-        "name": "MIL",
-        "score": "0"
+        name: "MIL",
+        score: "0"
     },
 
     "000": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "001": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "010": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "011": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "100": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "101": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "110": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "111": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
 
     "00": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "01": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "10": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "11": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
 
     "0": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
     "1": {
-        "name": "",
-        "score": "0"
+        name: "",
+        score: "0"
     },
 
-    "root": {
-        "name": "",
-        "score": "4"
+    root: {
+        name: "",
+        score: "4"
     }
 };
 
@@ -156,23 +291,22 @@ function serialize_map(map_obj) {
 
     for (var round = 4; round > 0; round--) {
         var team_count = Math.pow(2, round);
-        for(var team = 0; team < team_count; team += 1) {
+        for (var team = 0; team < team_count; team += 1) {
             var pos = dec2bin(team, round);
-            var score = map_obj[pos]['score'];
+            var score = map_obj[pos]["score"];
 
-            if (score == '?') {
-                score = 'q';
+            if (score == "?") {
+                score = "q";
             }
             serial += score;
         }
     }
 
-    return serial
-;
+    return serial;
 }
 
 function unserialize_map(map_init_obj, map_str) {
-    if (map_str.length < 30 || (! /^[01234q]+$/.test(map_str))) {
+    if (map_str.length < 30 || !/^[01234q]+$/.test(map_str)) {
         return map_init_obj;
     }
 
@@ -180,13 +314,13 @@ function unserialize_map(map_init_obj, map_str) {
     var index = 0;
     for (var round = 4; round > 0; round--) {
         var team_count = Math.pow(2, round);
-        for(var team = 0; team < team_count; team += 1) {
+        for (var team = 0; team < team_count; team += 1) {
             var pos = dec2bin(team, round);
             var score = map_str[index];
-            if (score == 'q') {
-                score = '?';
+            if (score == "q") {
+                score = "?";
             }
-            map_obj[pos]['score'] = score;
+            map_obj[pos]["score"] = score;
 
             index++;
         }
@@ -218,36 +352,36 @@ function dec2bin(num, len) {
 
 function logo_link(team) {
     if (team == "") {
-        return 'assets/logos/nba-logo-2.png';
+        return "assets/logos/nba-logo-2.png";
     }
-    return 'assets/logos/' + team + '_logo.png';
+    return "assets/logos/" + team + "_logo.png";
 }
 
 function score_link(score) {
-    if (score == '?') {
-        return 'assets/logos/score_q.png';
+    if (score == "?") {
+        return "assets/logos/score_q.png";
     }
-    return 'assets/logos/score_' + score + '.png';
+    return "assets/logos/score_" + score + ".png";
 }
 
 function link(asset) {
-    return 'assets/logos/' + asset + '.png';
+    return "assets/logos/" + asset + ".png";
 }
 
 function get_loser(pos) {
     var last = pos.slice(-1);
     var parent = pos.slice(0, -1);
-    if (last == '0') {
-        return parent + '1';
+    if (last == "0") {
+        return parent + "1";
     } else {
-        return parent + '0';
+        return parent + "0";
     }
 }
 
 function get_parent_pos(pos) {
     var parent = pos.slice(0, -1);
     if (parent == "") {
-        parent = 'root';
+        parent = "root";
     }
     return parent;
 }
@@ -256,59 +390,65 @@ function reload() {
     // conduct data map for bottom to top
     for (var round = 4; round > 0; round--) {
         var team_count = Math.pow(2, round);
-        for(var team = 0; team < team_count; team += 1) {
+        for (var team = 0; team < team_count; team += 1) {
             var pos = dec2bin(team, round);
             var op_pos = get_loser(pos);
             var parent_pos = get_parent_pos(pos);
 
-            var name = map[pos]['name'];
-            var score = map[pos]['score'];
-            var op_name = map[op_pos]['name'];
-            var op_score = map[op_pos]['score'];
-            var parent_name = map[parent_pos]['name'];
-            var parent_score = map[parent_pos]['score'];
+            var name = map[pos]["name"];
+            var score = map[pos]["score"];
+            var op_name = map[op_pos]["name"];
+            var op_score = map[op_pos]["score"];
+            var parent_name = map[parent_pos]["name"];
+            var parent_score = map[parent_pos]["score"];
 
             if (name == "") {
                 continue;
             }
             if (op_name == "") {
                 if (parent_name != "") {
-                    map[parent_pos]['name'] = name;
+                    map[parent_pos]["name"] = name;
                 }
             }
-            if (score == '4') {
-                map[parent_pos]['name'] = name;
+            if (score == "4") {
+                map[parent_pos]["name"] = name;
             }
         }
     }
 
     // set image
-    $.each(map, function(pos, val) {
+    $.each(map, function (pos, val) {
         var name = map[pos]["name"];
         var score = map[pos]["score"];
 
-        var ele = $('#' + pos).svg();
-        ele.attr('xlink:href', logo_link(name));
-        var score_ele = $('#' + pos + '_score').svg();
-        score_ele.attr('xlink:href', score_link(score));
+        var ele = $("#" + pos).svg();
+        ele.attr("xlink:href", logo_link(name));
+        var score_ele = $("#" + pos + "_score").svg();
+        score_ele.attr("xlink:href", score_link(score));
     });
 
     // set crown and basketball
-    var champion = 'root';
-    var basketball = $('#basketball').svg();
-    var crown = $('#crown').svg();
-    if (map[champion]['name'] == "") {
-        basketball.attr('xlink:href', link('blank'));
-        crown.attr('xlink:href', link('blank'));
+    var champion = "root";
+    var basketball = $("#basketball").svg();
+    var crown = $("#crown").svg();
+    if (map[champion]["name"] == "") {
+        basketball.attr("xlink:href", link("blank"));
+        crown.attr("xlink:href", link("blank"));
     } else {
-        basketball.attr('xlink:href', link('basketball'));
-        crown.attr('xlink:href', link('crown'));
+        basketball.attr("xlink:href", link("basketball"));
+        crown.attr("xlink:href", link("crown"));
     }
 
     // set url query
-    var newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + '?map=' + serialize_map(map);
+    var newurl =
+        window.location.protocol +
+        "//" +
+        window.location.host +
+        window.location.pathname +
+        "?map=" +
+        serialize_map(map);
     if (history.pushState) {
-        window.history.replaceState({path:newurl}, '', newurl);
+        window.history.replaceState({ path: newurl }, "", newurl);
     }
 }
 
@@ -316,34 +456,34 @@ function init() {
     reload();
 
     // bind click event
-    $('svg image').each(function(index, element) {
+    $("svg image").each(function (index, element) {
         var team_ele = $(element).svg();
 
         // only bind for team elements
         var ele_regex = /^[01]{1,4}$/;
-        var id = $(element).attr('id');
-        if (! ele_regex.test(id)) {
+        var id = $(element).attr("id");
+        if (!ele_regex.test(id)) {
             return;
         }
 
-        team_ele.hover(function(event) {
+        team_ele.hover(function (event) {
             var ele = $(event.target).svg();
-            var id = $(event.target).attr('id');
-            var name = map[id]['name'];
-            if (name == '') {
-                ele.css('cursor', 'auto');
+            var id = $(event.target).attr("id");
+            var name = map[id]["name"];
+            if (name == "") {
+                ele.css("cursor", "auto");
             } else {
-                ele.css('cursor', 'pointer');
+                ele.css("cursor", "pointer");
             }
         });
 
-        team_ele.click(function(event) {
-            var winner = $(event.target).attr('id');
+        team_ele.click(function (event) {
+            var winner = $(event.target).attr("id");
             var loser = get_loser(winner);
             var parent = get_parent_pos(winner);
 
-            var winner_name = map[winner]['name'];
-            var loser_name = map[loser]['name'];
+            var winner_name = map[winner]["name"];
+            var loser_name = map[loser]["name"];
 
             // if winner is nobody, return
             // if loser is nobody, winner into next round, loser still nobody, score 4:?
@@ -353,63 +493,83 @@ function init() {
             }
 
             var ele = $(event.target).svg();
-            var origin_w = ele.attr('width');
-            var origin_h = ele.attr('height');
-            var origin_x = ele.attr('x');
-            var origin_y = ele.attr('y');
-            ele.animate({svgWidth: +origin_w+10, svgHeight: +origin_h+10, svgX: +origin_x-5, svgY: +origin_y-5}, 50);
-            ele.animate({svgWidth: origin_w, svgHeight: origin_h, svgX: origin_x, svgY: origin_y}, 50);
+            var origin_w = ele.attr("width");
+            var origin_h = ele.attr("height");
+            var origin_x = ele.attr("x");
+            var origin_y = ele.attr("y");
+            ele.animate(
+                {
+                    svgWidth: +origin_w + 10,
+                    svgHeight: +origin_h + 10,
+                    svgX: +origin_x - 5,
+                    svgY: +origin_y - 5
+                },
+                50
+            );
+            ele.animate(
+                {
+                    svgWidth: origin_w,
+                    svgHeight: origin_h,
+                    svgX: origin_x,
+                    svgY: origin_y
+                },
+                50
+            );
 
             if (loser_name == "") {
-                map[winner]["score"] = '4';
-                map[loser]["score"] = '?';
+                map[winner]["score"] = "4";
+                map[loser]["score"] = "?";
                 reload();
                 return false;
             }
 
-            var modal = $('#vs').svg();
-            var vs = 'vs.svg';
+            var modal = $("#vs").svg();
+            var vs = "vs.svg";
             if (isMobile()) {
-                vs = 'vs-mobile.svg';
+                vs = "vs-mobile.svg";
             }
-            modal.load(vs, function() {
-                $('#modal').modal();
+            modal.load(vs, function () {
+                $("#modal").modal();
 
-                var svg_root = $('#vs_root').svg();
-                svg_root.attr('width', '100%');
-                svg_root.attr('height', '100%');
+                var svg_root = $("#vs_root").svg();
+                svg_root.attr("width", "100%");
+                svg_root.attr("height", "100%");
 
                 // set winner loser logo
-                $('#vs_winner').attr('xlink:href', logo_link(map[winner]["name"]));
-                $('#vs_loser').attr('xlink:href', logo_link(map[loser]["name"]));
+                $("#vs_winner").attr("xlink:href", logo_link(map[winner]["name"]));
+                $("#vs_loser").attr("xlink:href", logo_link(map[loser]["name"]));
 
-                $('[id^=point_]').each(function(index, element) {
+                $("[id^=point_]").each(function (index, element) {
                     var point_ele = $(element).svg();
 
-                    point_ele.hover(function(event) {
-                        var point = $(event.target).attr('id').slice(-1);
-                        var circle = $('#circle_' + point).svg();
-                        var number = $('#path_' + point).svg();
-                        circle.css('cursor', 'pointer');
-                        number.css('cursor', 'pointer');
+                    point_ele.hover(function (event) {
+                        var point = $(event.target)
+                            .attr("id")
+                            .slice(-1);
+                        var circle = $("#circle_" + point).svg();
+                        var number = $("#path_" + point).svg();
+                        circle.css("cursor", "pointer");
+                        number.css("cursor", "pointer");
                     });
 
-                    point_ele.click(function(event) {
-                        var point = $(event.target).attr('id').slice(-1);
+                    point_ele.click(function (event) {
+                        var point = $(event.target)
+                            .attr("id")
+                            .slice(-1);
                         // animate
-                        var circle = $('#circle_' + point).svg();
-                        circle.animate({svgR: '+=10'}, 50);
-                        circle.animate({svgR: '-=10'}, 50);
+                        var circle = $("#circle_" + point).svg();
+                        circle.animate({ svgR: "+=10" }, 50);
+                        circle.animate({ svgR: "-=10" }, 50);
 
                         // q means question mark '?'
-                        if (point == 'q') {
-                            point = '?';
+                        if (point == "q") {
+                            point = "?";
                         }
                         map[winner]["score"] = 4;
                         map[loser]["score"] = point;
                         reload();
 
-                        setTimeout(function() {
+                        setTimeout(function () {
                             $.modal.close();
                         }, 100);
                     });
@@ -424,37 +584,37 @@ function isMobile() {
 }
 
 // from https://css-tricks.com/snippets/javascript/get-url-variables/
-function getQueryVariable(variable)
-{
+function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
     var vars = query.split("&");
-    for (var i=0;i<vars.length;i++) {
+    for (var i = 0; i < vars.length; i++) {
         var pair = vars[i].split("=");
-        if(pair[0] == variable){return pair[1];}
+        if (pair[0] == variable) {
+            return pair[1];
+        }
     }
-    return(false);
+    return false;
 }
 
-$(document).ready(function() {
+$(document).ready(function () {
     // get query
-    var map_serial = getQueryVariable('map');
+    var map_serial = getQueryVariable("map");
     // set map
     if (map_serial) {
         map = unserialize_map(map_init, map_serial);
     }
 
-    var container = $('#container').svg();
-    var schedule = 'schedule.svg';
+    var container = $("#container").svg();
+    var schedule = "schedule.svg";
     if (isMobile()) {
-        schedule = 'schedule-mobile.svg';
+        schedule = "schedule-mobile.svg";
     }
 
-    container.load(schedule, function() {
-        var svg_root = $('#svg8').svg();
-        svg_root.attr('width', '100%');
-        svg_root.attr('height', '100%');
+    container.load(schedule, function () {
+        var svg_root = $("#svg8").svg();
+        svg_root.attr("width", "100%");
+        svg_root.attr("height", "100%");
 
         init();
     });
-
 });

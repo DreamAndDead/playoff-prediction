@@ -1,4 +1,7 @@
+# todo
 
+- seperate game map for diff year   /2018/ /2019/  or use query ?year=2019
+- 
 
 grep  -o '/media.*logo.svg' nba-team-list.html  | awk '{print "http://china.nba.com" $0}'
 
@@ -110,9 +113,3 @@ root代表总冠军
   }
 }
 ```
-
-
-# todos
-
-- 在手机上，如果放大网页，则弹窗不对
-  - 在放大的前提下，居中显示，并自适应宽度
