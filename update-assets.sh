@@ -7,7 +7,7 @@ function link() {
     echo "https://stats.nba.com/media/img/teams/logos/"$1"_logo.svg"
 }
 
-ASSET_DIR=./assets/test
+ASSET_DIR=./assets/logos
 
 cd $ASSET_DIR
 
@@ -17,7 +17,9 @@ do
   curl --progress-bar $l -o ${t}_logo.svg
 
   # thanks https://www.systutorials.com/241682/how-to-convert-svg-to-png-in-linux/
-  inkscape -z -e ${t}_logo.png -w 400 -h 400 ${t}_logo.svg 
+  inkscape -z -e ${t}_logo.png -w 200 -h 200 ${t}_logo.svg 
+
+  # todo: compress the pngs
 done <<EOF
 ATL
 BKN

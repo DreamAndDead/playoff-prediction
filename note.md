@@ -6,10 +6,6 @@
 grep  -o '/media.*logo.svg' nba-team-list.html  | awk '{print "http://china.nba.com" $0}'
 
 
-convert svg to png
-
-https://www.systutorials.com/241682/how-to-convert-svg-to-png-in-linux/
-
 javascript control svg
 
 http://www.petercollingridge.co.uk/data-visualisation/using-javascript-control-svg
@@ -32,7 +28,6 @@ https://stackoverflow.com/questions/642650/how-to-convert-string-into-float-in-j
 
 
 webp compression
-
 https://itsfoss.com/webp-ubuntu-linux/
 
 
