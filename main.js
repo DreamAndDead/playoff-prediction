@@ -1,67 +1,83 @@
-// teams every year
+// teams in each year
 var teams = {
     "2018": {
+        // West 1
         "0000": {
             name: "HOU",
             score: "0"
         },
+        // West 8
         "0001": {
             name: "MIN",
             score: "0"
         },
+        // West 4
         "0010": {
             name: "OKC",
             score: "0"
         },
+        // West 5
         "0011": {
             name: "UTA",
             score: "0"
         },
+        // West 3
         "0100": {
             name: "POR",
             score: "0"
         },
+        // West 6
         "0101": {
             name: "NOP",
             score: "0"
         },
+        // West 2
         "0110": {
             name: "GSW",
             score: "0"
         },
+        // West 7
         "0111": {
             name: "SAS",
             score: "0"
         },
 
+        // East 1
         "1000": {
             name: "TOR",
             score: "0"
         },
+        // East 8
         "1001": {
             name: "WAS",
             score: "0"
         },
+        // East 4
         "1010": {
             name: "CLE",
             score: "0"
         },
+        // East 5
         "1011": {
             name: "IND",
             score: "0"
         },
+        // East 2
         "1100": {
             name: "PHI",
             score: "0"
         },
+        // East 7
         "1101": {
             name: "MIA",
             score: "0"
         },
+        // East 3
         "1110": {
             name: "BOS",
             score: "0"
         },
+        // East 6
         "1111": {
             name: "MIL",
             score: "0"
@@ -69,69 +85,85 @@ var teams = {
     },
 
     "2019": {
+        // West 1
         "0000": {
+            name: "GSW",
+            score: "0"
+        },
+        // West 8
+        "0001": {
+            name: "LAC",
+            score: "0"
+        },
+        // West 4
+        "0010": {
             name: "HOU",
             score: "0"
         },
-        "0001": {
-            name: "MIN",
-            score: "0"
-        },
-        "0010": {
-            name: "OKC",
-            score: "0"
-        },
+        // West 5
         "0011": {
             name: "UTA",
             score: "0"
         },
+        // West 3
         "0100": {
             name: "POR",
             score: "0"
         },
+        // West 6
         "0101": {
-            name: "NOP",
+            name: "OKC",
             score: "0"
         },
+        // West 2
         "0110": {
-            name: "GSW",
+            name: "DEN",
             score: "0"
         },
+        // West 7
         "0111": {
             name: "SAS",
             score: "0"
         },
 
+        // East 1
         "1000": {
-            name: "TOR",
+            name: "MIL",
             score: "0"
         },
+        // East 8
         "1001": {
-            name: "WAS",
+            name: "DET",
             score: "0"
         },
+        // East 4
         "1010": {
-            name: "CLE",
+            name: "BOS",
             score: "0"
         },
+        // East 5
         "1011": {
             name: "IND",
             score: "0"
         },
+        // East 2
         "1100": {
             name: "PHI",
             score: "0"
         },
+        // East 7
         "1101": {
-            name: "MIA",
+            name: "BKN",
             score: "0"
         },
+        // East 3
         "1110": {
-            name: "BOS",
+            name: "TOR",
             score: "0"
         },
+        // East 6
         "1111": {
-            name: "MIL",
+            name: "ORL",
             score: "0"
         }
     },
@@ -140,68 +172,68 @@ var teams = {
 
 var map_init = {
     "0000": {
-        name: "HOU",
+        name: "",
         score: "0"
     },
     "0001": {
-        name: "MIN",
+        name: "",
         score: "0"
     },
     "0010": {
-        name: "OKC",
+        name: "",
         score: "0"
     },
     "0011": {
-        name: "UTA",
+        name: "",
         score: "0"
     },
     "0100": {
-        name: "POR",
+        name: "",
         score: "0"
     },
     "0101": {
-        name: "NOP",
+        name: "",
         score: "0"
     },
     "0110": {
-        name: "GSW",
+        name: "",
         score: "0"
     },
     "0111": {
-        name: "SAS",
+        name: "",
         score: "0"
     },
 
     "1000": {
-        name: "TOR",
+        name: "",
         score: "0"
     },
     "1001": {
-        name: "WAS",
+        name: "",
         score: "0"
     },
     "1010": {
-        name: "CLE",
+        name: "",
         score: "0"
     },
     "1011": {
-        name: "IND",
+        name: "",
         score: "0"
     },
     "1100": {
-        name: "PHI",
+        name: "",
         score: "0"
     },
     "1101": {
-        name: "MIA",
+        name: "",
         score: "0"
     },
     "1110": {
-        name: "BOS",
+        name: "",
         score: "0"
     },
     "1111": {
-        name: "MIL",
+        name: "",
         score: "0"
     },
 
@@ -270,6 +302,8 @@ var map_init = {
     }
 };
 
+var supported_years = Object.keys(teams);
+var year = Math.max.apply(Math, supported_years);
 var map = $.extend(true, {}, map_init);
 
 /*
@@ -310,7 +344,7 @@ function unserialize_map(map_init_obj, map_str) {
         return map_init_obj;
     }
 
-    var map_obj = $.extend(true, {}, map_init_obj);
+    var map_obj = $.extend(true, {}, map_init_obj, teams[year]);
     var index = 0;
     for (var round = 4; round > 0; round--) {
         var team_count = Math.pow(2, round);
@@ -338,6 +372,7 @@ function unserialize_map(map_init_obj, map_str) {
  *    dec2bin(10, 4)  =>   "1010"
  *    dec2bin(20, 4)  =>   "10100"
  *    dec2bin(1, 4)  =>   "0001"
+ *    dec2bin(1, 2)  =>   "01"
  */
 function dec2bin(num, len) {
     var bin = num.toString(2);
@@ -368,7 +403,7 @@ function link(asset) {
     return "assets/logos/" + asset + ".png";
 }
 
-function get_loser(pos) {
+function get_opponent(pos) {
     var last = pos.slice(-1);
     var parent = pos.slice(0, -1);
     if (last == "0") {
@@ -378,7 +413,7 @@ function get_loser(pos) {
     }
 }
 
-function get_parent_pos(pos) {
+function get_parent(pos) {
     var parent = pos.slice(0, -1);
     if (parent == "") {
         parent = "root";
@@ -386,14 +421,14 @@ function get_parent_pos(pos) {
     return parent;
 }
 
-function reload() {
-    // conduct data map for bottom to top
+function refresh() {
+    // construct map for bottom to top
     for (var round = 4; round > 0; round--) {
         var team_count = Math.pow(2, round);
         for (var team = 0; team < team_count; team += 1) {
             var pos = dec2bin(team, round);
-            var op_pos = get_loser(pos);
-            var parent_pos = get_parent_pos(pos);
+            var op_pos = get_opponent(pos);
+            var parent_pos = get_parent(pos);
 
             var name = map[pos]["name"];
             var score = map[pos]["score"];
@@ -446,14 +481,17 @@ function reload() {
         window.location.host +
         window.location.pathname +
         "?map=" +
-        serialize_map(map);
+        serialize_map(map) +
+        "&year=" +
+        year;
+
     if (history.pushState) {
         window.history.replaceState({ path: newurl }, "", newurl);
     }
 }
 
 function init() {
-    reload();
+    refresh();
 
     // bind click event
     $("svg image").each(function (index, element) {
@@ -470,6 +508,7 @@ function init() {
             var ele = $(event.target).svg();
             var id = $(event.target).attr("id");
             var name = map[id]["name"];
+
             if (name == "") {
                 ele.css("cursor", "auto");
             } else {
@@ -479,8 +518,7 @@ function init() {
 
         team_ele.click(function (event) {
             var winner = $(event.target).attr("id");
-            var loser = get_loser(winner);
-            var parent = get_parent_pos(winner);
+            var loser = get_opponent(winner);
 
             var winner_name = map[winner]["name"];
             var loser_name = map[loser]["name"];
@@ -519,7 +557,9 @@ function init() {
             if (loser_name == "") {
                 map[winner]["score"] = "4";
                 map[loser]["score"] = "?";
-                reload();
+
+                refresh();
+
                 return false;
             }
 
@@ -528,6 +568,7 @@ function init() {
             if (isMobile()) {
                 vs = "vs-mobile.svg";
             }
+
             modal.load(vs, function () {
                 $("#modal").modal();
 
@@ -567,7 +608,7 @@ function init() {
                         }
                         map[winner]["score"] = 4;
                         map[loser]["score"] = point;
-                        reload();
+                        refresh();
 
                         setTimeout(function () {
                             $.modal.close();
@@ -599,7 +640,12 @@ function getQueryVariable(variable) {
 $(document).ready(function () {
     // get query
     var map_serial = getQueryVariable("map");
+    var which_year = getQueryVariable("year");
+
     // set map
+    if ($.inArray(which_year, supported_years) != -1) {
+        year = which_year;
+    }
     if (map_serial) {
         map = unserialize_map(map_init, map_serial);
     }
