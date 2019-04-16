@@ -650,6 +650,8 @@ $(document).ready(function () {
         map = unserialize_map(map_init, map_serial);
     }
 
+    $(document).attr("title", "大胆预测" + year + "季后赛");
+
     var container = $("#container").svg();
     var schedule = "schedule.svg";
     if (isMobile()) {
