@@ -2,9 +2,10 @@
 
 大胆预测季后赛 ;)
 
+https://dreamanddead.github.io/playoff-prediction/
+
 ![](./demo.gif)
 
-https://dreamanddead.github.io/playoff-prediction/
 
 
 ## my prediction for year 2019
