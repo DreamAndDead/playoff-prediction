@@ -1,4 +1,5 @@
 // teams in each year
+// ref https://stats.nba.com/playoffs/
 var teams = {
     "2018": {
         // West 1
@@ -62,22 +63,22 @@ var teams = {
             name: "IND",
             score: "0"
         },
-        // East 2
+        // East 3
         "1100": {
             name: "PHI",
             score: "0"
         },
-        // East 7
+        // East 6
         "1101": {
             name: "MIA",
             score: "0"
         },
-        // East 3
+        // East 2
         "1110": {
             name: "BOS",
             score: "0"
         },
-        // East 6
+        // East 7
         "1111": {
             name: "MIL",
             score: "0"
@@ -146,28 +147,112 @@ var teams = {
             name: "IND",
             score: "0"
         },
-        // East 2
+        // East 3
         "1100": {
             name: "PHI",
             score: "0"
         },
-        // East 7
+        // East 6
         "1101": {
             name: "BKN",
             score: "0"
         },
-        // East 3
+        // East 2
         "1110": {
             name: "TOR",
             score: "0"
         },
-        // East 6
+        // East 7
         "1111": {
             name: "ORL",
             score: "0"
         }
     },
 
+    "2020": {
+        // West 1
+        "0000": {
+            name: "LAL",
+            score: "0"
+        },
+        // West 8
+        "0001": {
+            name: "POR",
+            score: "0"
+        },
+        // West 4
+        "0010": {
+            name: "HOU",
+            score: "0"
+        },
+        // West 5
+        "0011": {
+            name: "OKC",
+            score: "0"
+        },
+        // West 3
+        "0100": {
+            name: "DEN",
+            score: "0"
+        },
+        // West 6
+        "0101": {
+            name: "UTA",
+            score: "0"
+        },
+        // West 2
+        "0110": {
+            name: "LAC",
+            score: "0"
+        },
+        // West 7
+        "0111": {
+            name: "DAL",
+            score: "0"
+        },
+
+        // East 1
+        "1000": {
+            name: "MIL",
+            score: "0"
+        },
+        // East 8
+        "1001": {
+            name: "ORL",
+            score: "0"
+        },
+        // East 4
+        "1010": {
+            name: "IND",
+            score: "0"
+        },
+        // East 5
+        "1011": {
+            name: "MIA",
+            score: "0"
+        },
+        // East 3
+        "1100": {
+            name: "BOS",
+            score: "0"
+        },
+        // East 6
+        "1101": {
+            name: "PHI",
+            score: "0"
+        },
+        // East 2
+        "1110": {
+            name: "TOR",
+            score: "0"
+        },
+        // East 7
+        "1111": {
+            name: "BKN",
+            score: "0"
+        }
+    },
+    
 };
 
 var map_init = {
