@@ -14,4 +14,6 @@ https://dreamanddead.github.io/playoff-prediction/?map=4240241441424241344q24244
 
 ![](./prediction-2019.png)
 
-real life: https://stats.nba.com/playoffs/
+real life: 
+
+![](./playoff-2019.jpg)
