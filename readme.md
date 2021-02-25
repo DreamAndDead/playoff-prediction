@@ -4,9 +4,9 @@
 
 :point_right: [2020 预测入口][2020]
 
-:point_right: [2019 预测入口][2020]
+:point_right: [2019 预测入口][2019]
 
-:point_right: [2018 预测入口][2020]
+:point_right: [2018 预测入口][2018]
 
 ![](./demo.gif)
 
